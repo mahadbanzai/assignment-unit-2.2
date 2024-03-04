@@ -147,7 +147,7 @@ if (mix === true) {
 // We check if temp is higher than 39 and if time is greater or equal to  4 
 // -- they are so we console.log 'throw away the food!'
 
-/* Time cannot be a constant it has to be a variable considering that in this problem time can be greater or equal to 4
+/* Time cannot be a constant it has to be a variable considering that in this problem time can be greater or equal to 4. Also the statement says AND and the || represents OR. You would need &&
 let temp = 40;
 const time = 4;
 
